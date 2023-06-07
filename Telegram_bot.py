@@ -1,3 +1,6 @@
+# July 2022
+# This bot is not on the server. You have to run this program to use the bot
+# @CorrectEnjoyerBot (https://t.me/CorrectEnjoyerBot)
 from telebot import TeleBot, types
 import OP_Spoilers
 
